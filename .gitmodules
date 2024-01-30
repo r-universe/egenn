@@ -8,3 +8,7 @@
 [submodule "rtemis"]
 	path = rtemis
 	url = https://github.com/egenn/rtemis
+[submodule "sgd"]
+	path = sgd
+	url = https://github.com/airoldilab/sgd
+	registered = false
