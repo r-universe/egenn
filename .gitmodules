@@ -8,3 +8,6 @@
 [submodule "rtemis"]
 	path = rtemis
 	url = https://github.com/egenn/rtemis
+[submodule "rtemisbio"]
+	path = rtemisbio
+	url = https://github.com/egenn/rtemisbio
