@@ -7,7 +7,10 @@
 	url = https://github.com/egenn/music
 [submodule "rtemis"]
 	path = rtemis
-	url = https://github.com/egenn/rtemis
+	url = https://github.com/rtemis-org/rtemis
+[submodule "rtemisalpha"]
+	path = rtemisalpha
+	url = https://github.com/rtemis-org/rtemis-legacy
 [submodule "rtemisbio"]
 	path = rtemisbio
 	url = https://github.com/egenn/rtemisbio
