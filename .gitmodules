@@ -8,12 +8,12 @@
 [submodule "rtemis"]
 	path = rtemis
 	url = https://github.com/rtemis-org/rtemis
+[submodule "rtemis.bio"]
+	path = rtemis.bio
+	url = https://github.com/rtemis-org/rtemis.bio
+[submodule "rtemis.utils"]
+	path = rtemis.utils
+	url = https://github.com/rtemis-org/rtemis.utils
 [submodule "rtemisalpha"]
 	path = rtemisalpha
 	url = https://github.com/rtemis-org/rtemis-legacy
-[submodule "rtemisbio"]
-	path = rtemisbio
-	url = https://github.com/rtemis-org/rtemisbio
-[submodule "rtemisutils"]
-	path = rtemisutils
-	url = https://github.com/rtemis-org/rtemisutils
